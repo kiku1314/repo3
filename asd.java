@@ -10,3 +10,4 @@ System.out.println("           *   *                    ");
 System.out.println("             *                      ");
 }
 }
+在重中之重重中之重重中之重
