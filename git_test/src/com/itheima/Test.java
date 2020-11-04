@@ -8,4 +8,9 @@ public class Test {
         System.out.println("axcascabciucguac");
         System.out.println("axcascabciucguac");
     }
+
+    public void test(){
+        int i = 0;
+        i += 10;
+    }
 }
